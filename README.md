@@ -1,7 +1,3 @@
-Here is a professional, comprehensive README.md for your project. I have
-structured it to be "GitHub-ready," including a section specifically explaining
-the use case of Gemma in the context of this application.
-
 ☸️ AI-Powered Kubernetes YAML Generator
 
 An interactive, intelligent web application designed to simplify the creation
